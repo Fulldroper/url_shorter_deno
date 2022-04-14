@@ -1,0 +1,9 @@
+{
+    "home":"home",
+    "default": "index.html",
+    "style": "style.css",
+    "script": "script.js",
+    "license": "LICENSE",
+    "favicon": "favicon.png",
+    "port": 8080
+}
